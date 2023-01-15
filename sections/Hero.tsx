@@ -3,7 +3,7 @@ export default function Hero() {
     <section className="text-gray-600 body-font">
       <div className="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
         <div className="text-center lg:w-2/3 w-full">
-          <h1 className="title-font sm:text-6xl sm:font-bold text-3xl mb-4 font-medium text-indigo-500">
+          <h1 className="title-font sm:text-6xl sm:font-bold mb-4 text-transparent text-8xl bg-clip-text bg-gradient-to-r from-cyan-500 to-indigo-500">
             Microdosing synth tattooed vexillologist
           </h1>
           <p className="mb-8 leading-relaxed">
