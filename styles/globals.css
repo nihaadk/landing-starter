@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
 .zoom-in {
-    @apply hover:scale-150 ease-in duration-300;
+  @apply hover:scale-150 ease-in duration-300;
 }
