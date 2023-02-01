@@ -7,7 +7,11 @@ module.exports = {
     './sections/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'hero-pattern': "url('/images/wave.svg')",
+      }
+    },
   },
   plugins: [],
 }
